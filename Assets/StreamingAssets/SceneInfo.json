@@ -1,0 +1,5 @@
+[
+    {"id":1,"imgRes":"SceneImg/GameScene1","name":"疯狂树林","tips":"丧尸已经占领城边的树林，如果不防守住，城市岌岌可危","sceneName":"GameScene1","money":200,"towerHp":100},
+    {"id":2,"imgRes":"SceneImg/GameScene2","name":"极寒雪地","tips":"在运送物资的途中，大雪纷飞，遭遇丧尸袭击","sceneName":"GameScene2","money":300,"towerHp":100},
+    {"id":3,"imgRes":"SceneImg/GameScene3","name":"熔岩旱土","tips":"火山爆发，丧尸施虐","sceneName":"GameScene3","money":400,"towerHp":100}
+]

@@ -1,0 +1,8 @@
+[
+    {"id":1,"res":"Role/1","atk":10,"tips":"持刀者(Knife wielder)","lockMoney":0,"type":1,"hitEff":"eff/1"},
+    {"id":2,"res":"Role/2","atk":3,"tips":"警察(Policeman)","lockMoney":0,"type":2,"hitEff":"eff/1"},
+    {"id":3,"res":"Role/3","atk":4,"tips":"狙击手(Sniper)","lockMoney":200,"type":2,"hitEff":"eff/1"},
+    {"id":4,"res":"Role/4","atk":5,"tips":"步兵(Infantry)","lockMoney":300,"type":2,"hitEff":"eff/1"},
+    {"id":5,"res":"Role/5","atk":6,"tips":"机枪手(Minigun gunner)","lockMoney":400,"type":2,"hitEff":"eff/1"},
+    {"id":6,"res":"Role/6","atk":10,"tips":"火箭兵(Rocketman)","lockMoney":500,"type":2,"hitEff":"eff/1"}
+]
